@@ -23,7 +23,7 @@ public class exercise_05 {
 		double total = totalPriceItem1 + totalPriceItem2;
 		
 		System.out.printf("TOTAL PRICE: $%.2f", total);
-
+		
 	}
 
 }
