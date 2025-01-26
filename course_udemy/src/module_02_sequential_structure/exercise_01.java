@@ -9,10 +9,10 @@ public class exercise_01 {
  
 		Scanner sc = new Scanner(System.in);
 		
-		int numble1 = sc.nextInt();
-		int numble2 = sc.nextInt();
+		int number1 = sc.nextInt();
+		int number2 = sc.nextInt();
 		
-		int sum = numble1 + numble2;
+		int sum = number1 + number2;
 		
 		System.out.println("SOMA = " + sum);
 		
