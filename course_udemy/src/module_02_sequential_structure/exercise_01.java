@@ -1,4 +1,4 @@
-package sequential_structure;
+package module_02_sequential_structure;
 
 import java.util.Scanner;
 

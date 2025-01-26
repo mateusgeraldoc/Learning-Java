@@ -1,4 +1,4 @@
-package introduction;
+package module_01_introduction;
 import java.util.Locale;
 
 public class Main {
