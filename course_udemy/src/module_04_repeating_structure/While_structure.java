@@ -9,8 +9,8 @@ public class While_structure {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Insert a interger number: ");
-		
 		int number = sc.nextInt();
+		
 		int sum = 0;
 		while (number!=0) {
 			number = sc.nextInt();
@@ -20,5 +20,4 @@ public class While_structure {
 		System.out.println(sum);
 		
 	}
-
 }
